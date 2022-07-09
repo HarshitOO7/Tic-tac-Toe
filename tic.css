@@ -1,6 +1,9 @@
 
 	/* CSS Code */
 	/* Heading */
+	body {
+		background-color: #171616;
+	}
 	h1 {
 		color: orangered;
 		font-size: 45px;
@@ -104,6 +107,6 @@ input[type=radio] {
 	font-family: Verdana,
 		Geneva, Tahoma, sans-serif;
 		
-	color: rgb(0, 0, 0);
+	color: rgb(255, 253, 253);
 	font-size: 20px;
 }
